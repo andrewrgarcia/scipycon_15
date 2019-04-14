@@ -3,7 +3,7 @@
 
 Andrew R. Garcia
 
-<img src="figure_1.png" alt="drawing" width="500"/>
+<img src="figure_1.png" alt="drawing" width="900"/>
 
 
 [This figure is based on scientific work done by Andrew Garcia, Catherine Snyder, Christopher Lacko, and Dr. Carlos Rinaldi in 2014 and 2015.]
